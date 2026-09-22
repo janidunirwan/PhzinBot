@@ -1,6 +1,6 @@
   <div class="pre-loader">
   <div class="pre-loader-box">
-     <div class="loading-text">𝐆𝐎𝐋𝐃𝐄𝐍 𝐐𝐔𝐄𝐄𝐍 𝐌𝐃</div>
+     <div class="loading-text"> 𝐏𝐇𝐙𝐈𝐍 𝐁𝐎𝐓 </div>
     <div class="loader-progress" id="progress_div">
       <div class="bar" id="bar1"></div>
     </div>
@@ -20,16 +20,16 @@
             <a href="#">🏠 Home</a>
             <a href="#">📄 About</a>
             <a href="#">🛠 Services</a>
-            <a href="https://wa.me/94776734030">📞 Contact</a>
+            <a href="https://wa.me/94779944042">📞 Contact</a>
         </div>
               </div>
 
 
-GOLDEN QUEEN MD
+PHZIN BOT 
 
 
 
-Golden Queen MD WhatsApp bot එක සඳහා 🚀
+ phzin bot WhatsApp bot එක සඳහා 🚀
 
 📌 Features
 
@@ -113,5 +113,5 @@ WhatsApp
 
 ---
 
-🔥 Golden Queen MD - Your Ultimate WhatsApp Bot!
+🔥 PHZIN BOT - Your Ultimate WhatsApp Bot!
 
